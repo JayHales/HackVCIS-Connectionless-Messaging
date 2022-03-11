@@ -1,0 +1,19 @@
+{
+  "name": "enibccs",
+  "version": "1.0.0",
+  "description": "The central server for the emergency non-internet bluetooth communication project.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hackathon",
+    "bluetooth",
+    "message"
+  ],
+  "author": "Josh Hales",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
