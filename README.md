@@ -17,3 +17,4 @@ A simulated interaction from a fake device will be used.
 
 A potential mockup server will be used. This will be implemented in TypeScript.
 
+The mockup can be seen deployed on my website: (https://jayhal.es/hackvcis2022).
