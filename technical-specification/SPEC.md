@@ -20,6 +20,8 @@ To receive a message a node must come into contact with another node or sync to 
 
 Through the variety of communication methods messages will propagate through devices via Bluetooth and ultimately through the internet to spread to other devices.
 
+A device can be wired to another for a wired connectivity. Messages, again, can be synced via this method.
+
 ## Technical implementation
 (1) When the user creates a message some metadata is included. The time of sending and a name to describe the sender. It will then be encrypted with the public key of the receiver. This encrypted data is then wrapped again with more metadata including a unique ID.
 
