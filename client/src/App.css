@@ -1,6 +1,7 @@
 .App {
   width: 512px;
   border: 1px grey solid;
+  border-radius: 5px0;
   height: 800px;
 
   overflow-y: scroll;
@@ -96,3 +97,22 @@ button {
   font-size: 12px;
 }
 
+.Debugger {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+
+  width: 300px;
+
+  padding: 20px;
+
+  margin: 5px
+
+}
+
+.Debugger > button {
+  width: 200px;
+}
+.Inline {
+  display: inline;
+}
