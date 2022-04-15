@@ -23,7 +23,7 @@ As well as this, I also wrote a technical specification detailing the specific d
 
 The app was written in React and packed for the web. This allows everyone to visit it with ease and the similarity of React to React Native would make porting the site to an actual app relatively simple: only the debugger used for simulating events would need to be attached to various system input events.
 
-The site is currently being served on a Linux server through Apache. It can be visited at https://jayhal.es/hackvcis2022
+The site is currently being served on a Linux server through Apache. It can be visited at https://jayhal.es/vault/hackvcis2022
 ## Challenges I ran into
 The most obvious issue was the restriction on available technology. This was overcome through a debugger which allowed me to build a functioning client to show clear a proof of concept.
 
@@ -38,5 +38,5 @@ I have learnt huge amounts about close proximity wireless technology as well as 
 The future of Halo Communication remains relatively uncertain. I would love to continue to develop and work on this project, hopefully with some teammates at some point, unfortunately, as I have already stated the technology is somewhat limited to those in official positions.
 
 I could design a system that uses NFC communication and terminals which could be deployed around the world which would work in a similar way but would remove the passive propagation which is the backbone of the system.
-![Halo Communication Banner](https://jayhal.es/hackvcis2022/thumbnail.png "Halo Communication Banner")
+![Halo Communication Banner](https://jayhal.es/vault/hackvcis2022/thumbnail.png "Halo Communication Banner")
 
